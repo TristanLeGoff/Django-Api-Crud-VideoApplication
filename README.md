@@ -3,6 +3,7 @@ A django back end with api routes to CRUD in a SQL lite database.
 This is the backend of a project, the front end is here https://github.com/TristanLeGoff/Angular-Front-VideoApplication .
 To start the project open a console and do : 
 >cd myApi
+//////
 >python manage.py runserver
 
 After that you can go to the front end project to launch the application.
